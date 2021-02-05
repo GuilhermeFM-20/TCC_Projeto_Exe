@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Guilherme/Documents/NetBeansProjects/SistemaBiblioteca_2/src/JFramebib/Home.java</file>
+            <file>file:/C:/Users/Guilherme/Documents/NetBeansProjects/SistemaBiblioteca_2/src/db/DB.java</file>
+            <file>file:/C:/Users/Guilherme/Documents/NetBeansProjects/SistemaBiblioteca_2/src/JFramebib/AddLiv.java</file>
+            <file>file:/C:/Users/Guilherme/Documents/NetBeansProjects/SistemaBiblioteca_2/src/JFramebib/AddLei.java</file>
+            <file>file:/C:/Users/Guilherme/Documents/NetBeansProjects/SistemaBiblioteca_2/src/model/bean/EpreBean.java</file>
+            <file>file:/C:/Users/Guilherme/Documents/NetBeansProjects/SistemaBiblioteca_2/src/model/bean/EmpreList.java</file>
+            <file>file:/C:/Users/Guilherme/Documents/NetBeansProjects/SistemaBiblioteca_2/src/model/dao/ProdutoDAO.java</file>
+            <file>file:/C:/Users/Guilherme/Documents/NetBeansProjects/SistemaBiblioteca_2/src/JFramebib/Renova.java</file>
+            <file>file:/C:/Users/Guilherme/Documents/NetBeansProjects/SistemaBiblioteca_2/src/JFramebib/Devolu.java</file>
+            <file>file:/C:/Users/Guilherme/Documents/NetBeansProjects/SistemaBiblioteca_2/src/JFramebib/PesqEmp.java</file>
+            <file>file:/C:/Users/Guilherme/Documents/NetBeansProjects/SistemaBiblioteca_2/src/JFramebib/PesqLiv.java</file>
+            <file>file:/C:/Users/Guilherme/Documents/NetBeansProjects/SistemaBiblioteca_2/src/JFramebib/ExluArq.java</file>
+            <file>file:/C:/Users/Guilherme/Documents/NetBeansProjects/SistemaBiblioteca_2/src/JFramebib/Empres.java</file>
+            <file>file:/C:/Users/Guilherme/Documents/NetBeansProjects/SistemaBiblioteca_2/src/JFramebib/Exlutem.java</file>
+            <file>file:/C:/Users/Guilherme/Documents/NetBeansProjects/SistemaBiblioteca_2/src/JFramebib/PesqLei.java</file>
+            <file>file:/C:/Users/Guilherme/Documents/NetBeansProjects/SistemaBiblioteca_2/src/JFramebib/JFrame.java</file>
+            <file>file:/C:/Users/Guilherme/Documents/NetBeansProjects/SistemaBiblioteca_2/src/JFramebib/Mostratu.java</file>
+        </group>
+    </open-files>
+</project-private>
